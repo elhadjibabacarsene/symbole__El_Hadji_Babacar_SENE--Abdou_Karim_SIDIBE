@@ -1,7 +1,7 @@
 <div class="babs prend ca">
     <div class="row border-bottom mb-4">
         <div class="col-6 d-flex justify-content-start align-items-center">
-            <h4 class="color-general mt-5 mb-5 font-weight-normal">Lister, modifier ou supprimer<span class="font-weight-light"> chambres</span></h4>
+            <h4 class="color-general mt-2 mb-3 font-weight-normal">Lister, modifier ou supprimer<span class="font-weight-light"> chambres</span></h4>
         </div>
         <div class="col-6 d-flex justify-content-end align-items-center">
             <img src="../../public/source/icones/bed.png" class="icone-menu" alt="">
