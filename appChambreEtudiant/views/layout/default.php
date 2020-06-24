@@ -9,7 +9,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
       <script src="https://kit.fontawesome.com/7d1537bb2c.js" crossorigin="anonymous"></script>
-      <link rel="stylesheet" href="../../public/css/main.css">
+      <link rel="stylesheet" href="<?=URL?>public/css/main.css">
 
   </head>
   <body>
@@ -24,7 +24,7 @@
                         </div>
                         <div class="col-lg-9">
                             <!--contenu view -->
-                            <?php require_once '../etudiant/listeetudiant.view.php' ?>
+                            <?=$contentForLayout?>
                         </div>
                     </div>
                 </div>

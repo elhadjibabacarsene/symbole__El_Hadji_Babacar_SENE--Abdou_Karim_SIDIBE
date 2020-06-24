@@ -5,7 +5,7 @@
     </button>
 
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav mr-auto d-lg-none ">
+        <ul class="navbar-nav mr-auto d-lg-none" id="menu-big">
             <li class="nav-item active d-lg-none">
                 <a class="nav-link" href="#">Ajouter un étudiant<span class="sr-only">(current)</span></a>
             </li>

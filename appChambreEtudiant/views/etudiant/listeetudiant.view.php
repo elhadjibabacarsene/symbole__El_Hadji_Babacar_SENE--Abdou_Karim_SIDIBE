@@ -4,7 +4,7 @@
             <h4 class="color-general mt-5 mb-5 font-weight-normal">Lister, modifier ou supprimer<span class="font-weight-light"> chambres</span></h4>
         </div>
         <div class="col-6 d-flex justify-content-end align-items-center">
-            <img src="../../public/source/icones/bed.png" class="icone-menu" alt="">
+            <img src="<?=URL?>public/source/icones/bed.png" class="icone-menu" alt="">
         </div>
     </div>
     <div class="row justify-content-center align-item-center p-2">

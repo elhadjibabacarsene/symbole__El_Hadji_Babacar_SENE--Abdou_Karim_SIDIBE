@@ -7,11 +7,11 @@
             <h6 class="font-weight-bold text-secondary">Etudiant</h6>
         </div>
         <div class="d-inline d-block mb-3">
-            <img src="../../public/source/icones/student.png" alt="" class="icone-menu mr-1" id="icone-add-etudiant">
+            <img src="<?=URL?>public/source/icones/student.png" alt="" class="icone-menu mr-1" id="icone-add-etudiant">
             <span class="color-general font-weight-bold">Ajouter un étudiant</span>
         </div>
         <div class="d-inline d-block mb-3">
-            <img src="../../public/source/icones/list.png" alt="" class="icone-menu mr-1" id="icone-add-etudiant">
+            <img src="<?=URL?>public/source/icones/list.png" alt="" class="icone-menu mr-1" id="icone-add-etudiant">
             <span class="text-secondary">Liste étudiants</span>
         </div>
     </div>
@@ -20,11 +20,11 @@
             <h6 class="font-weight-bold text-secondary">Chambres</h6>
         </div>
         <div class="d-inline d-block mb-3">
-            <img src="../../public/source/icones/bed.png" alt="" class="icone-menu mr-1" id="icone-add-etudiant">
+            <img src="<?=URL?>public/source/icones/bed.png" alt="" class="icone-menu mr-1" id="icone-add-etudiant">
             <span class="text-secondary">Ajouter une chambre</span>
         </div>
         <div class="d-inline d-block mb-3">
-            <img src="../../public/source/icones/list.png" alt="" class="icone-menu mr-1" id="icone-add-etudiant">
+            <img src="<?=URL?>public/source/icones/list.png" alt="" class="icone-menu mr-1" id="icone-add-etudiant">
             <span class="text-secondary">Liste chambres</span>
         </div>
     </div>
